@@ -1,0 +1,67 @@
+div img {
+    
+    width: 100px;
+    
+}
+
+table {
+    text-align: center;
+}
+
+
+
+#kalkulator > div {
+
+width: 650px;
+}
+
+
+label {
+    display: block;
+}
+
+#Inputs {
+    display: flex;
+   
+    text-align: center;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    flex-direction: row;
+    align-content: ;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+    
+}
+
+input {
+    width: 45%;
+    border: 1px solid ;
+}
+
+#Inputs > div {
+    width: 22%;
+    
+    
+}
+select {
+    width: 30%;
+}
+
+#Wynik {
+   margin-top: 17px;
+    width: 84%;
+    background-color: aquamarine;
+}
+
+#number1, #number2 {
+    width: 60%;
+}
+
+#Gora {
+    line-height: 50px;
+    background-color: blueviolet;
+    text-align: right;
+    font-size: larger;
+    
+}
